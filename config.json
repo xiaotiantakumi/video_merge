@@ -1,0 +1,11 @@
+{
+    "input_directory": "inputs",
+    "output_file": "output.mp4",
+    "allowed_extensions": [
+        ".mp4",
+        ".avi",
+        ".mov",
+        ".MOV",
+        ".mkv"
+    ]
+}
